@@ -1,0 +1,178 @@
+{
+  "southeastasia": {
+    "abbr": "asse",
+    "code": "01"
+  },
+  "eastasia": {
+    "abbr": "asea",
+    "code": "02"
+  },
+  "centralus": {
+    "abbr": "usce",
+    "code": "03"
+  },
+  "eastus": {
+    "abbr": "usea",
+    "code": "04"
+  },
+  "eastus2": {
+    "abbr": "use2",
+    "code": "05"
+  },
+  "westus": {
+    "abbr": "uswe",
+    "code": "06"
+  },
+  "westus2": {
+    "abbr": "usw2",
+    "code": "07"
+  },
+  "northcentralus": {
+    "abbr": "usnc",
+    "code": "08"
+  },
+  "southcentralus": {
+    "abbr": "ussc",
+    "code": "09"
+  },
+  "westcentralus": {
+    "abbr": "uswc",
+    "code": "10"
+  },
+  "northeurope": {
+    "abbr": "euno",
+    "code": "11"
+  },
+  "westeurope": {
+    "abbr": "euwe",
+    "code": "12"
+  },
+  "japanwest": {
+    "abbr": "jawe",
+    "code": "13"
+  },
+  "japaneast": {
+    "abbr": "jaea",
+    "code": "14"
+  },
+  "brazilsouth": {
+    "abbr": "brso",
+    "code": "15"
+  },
+  "australiaeast": {
+    "abbr": "auea",
+    "code": "16"
+  },
+  "australiasoutheast": {
+    "abbr": "ause",
+    "code": "17"
+  },
+  "southindia": {
+    "abbr": "inso",
+    "code": "18"
+  },
+  "centralindia": {
+    "abbr": "ince",
+    "code": "19"
+  },
+  "westindia": {
+    "abbr": "inwe",
+    "code": "20"
+  },
+  "canadacentral": {
+    "abbr": "cace",
+    "code": "21"
+  },
+  "canadaeast": {
+    "abbr": "caea",
+    "code": "22"
+  },
+  "uksouth": {
+    "abbr": "ukso",
+    "code": "23"
+  },
+  "ukwest": {
+    "abbr": "ukwe",
+    "code": "24"
+  },
+  "koreacentral": {
+    "abbr": "koce",
+    "code": "25"
+  },
+  "koreasouth": {
+    "abbr": "koso",
+    "code": "26"
+  },
+  "francecentral": {
+    "abbr": "frce",
+    "code": "27"
+  },
+  "francesouth": {
+    "abbr": "frso",
+    "code": "28"
+  },
+  "australiacentral": {
+    "abbr": "auce",
+    "code": "29"
+  },
+  "australiacentral2": {
+    "abbr": "auc2",
+    "code": "30"
+  },
+  "southafricanorth": {
+    "abbr": "sano",
+    "code": "31"
+  },
+  "southafricawest": {
+    "abbr": "sawe",
+    "code": "32"
+  },
+  "brazilsoutheast": {
+    "abbr": "brse",
+    "code": "33"
+  },
+  "germanynorth": {
+    "abbr": "deno",
+    "code": "34"
+  },
+  "germanywestcentral": {
+    "abbr": "dewc",
+    "code": "35"
+  },
+  "norwayeast": {
+    "abbr": "noea",
+    "code": "36"
+  },
+  "norwaywest": {
+    "abbr": "nowe",
+    "code": "37"
+  },
+  "qatarcentral": {
+    "abbr": "qace",
+    "code": "38"
+  },
+  "swedencentral": {
+    "abbr": "sece",
+    "code": "39"
+  },
+  "switzerlandnorth": {
+    "abbr": "ceno",
+    "code": "40"
+  },
+  "switzerlandwest": {
+    "abbr": "cewe",
+    "code": "41"
+  },
+  "uaecentral": {
+    "abbr": "aece",
+    "code": "42"
+  },
+  "uaenorth": {
+    "abbr": "aeno",
+    "code": "43"
+  },
+  "westus3": {
+    "abbr": "usw3",
+    "code": "44"
+  }
+}
